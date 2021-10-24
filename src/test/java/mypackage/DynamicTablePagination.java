@@ -15,7 +15,7 @@ public class DynamicTablePagination {
 		// TODO Auto-generated method stub
 
 		
-WebDriverManager.chromedriver().setup();
+        WebDriverManager.chromedriver().setup();
 		
 		WebDriver driver = new ChromeDriver();
 		
